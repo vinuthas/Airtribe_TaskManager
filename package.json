@@ -1,0 +1,23 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinuthas/Airtribe_Task_Manager.git"
+  },
+  "author": "Vinutha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinuthas/Airtribe_Task_Manager/issues"
+  },
+  "homepage": "https://github.com/vinuthas/Airtribe_Task_Manager#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
