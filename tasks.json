@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "shop for fruits and vegetables for the coming week over weekend",
+    "status": false
+  },
+  {
+    "title": "Pay electric bill",
+    "status": false,
+    "description": "by 29 sept",
+    "id": 2
+  },
+  {
+    "id": 5,
+    "title": "pay water bill",
+    "description": "by 19 sept",
+    "status": false
+  },
+  {
+    "title": "pay water bill",
+    "status": false,
+    "description": "by 19 sept",
+    "id": 6
+  },
+  {
+    "title": "impo",
+    "status": false,
+    "description": "by 19 sept",
+    "id": 7
+  }
+]
